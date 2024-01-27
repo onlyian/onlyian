@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onlyian
-- 👀 I’m interested in coding
+- 👀 I’m interested in machine learning and AI 
 - 🌱 I’m currently learning computer science 
 - 💞️ 
 
